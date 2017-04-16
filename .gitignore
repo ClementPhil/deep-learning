@@ -3,3 +3,16 @@
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
+*.p
+save.*
+*.meta
+checkpoint
+cifar-10-python.tar.gz
+cifar-10-batches-py
+image_classification.data-*
+image_classification.index
+image_classification.meta
+preprocess_batch_*.p
+preprocess_training.p
+preprocess_validation.p
+*.csv
