@@ -16,5 +16,5 @@ preprocess_batch_*.p
 preprocess_training.p
 preprocess_validation.p
 *.csv
-
+MNIST*
 .ipynb_checkpoints/
