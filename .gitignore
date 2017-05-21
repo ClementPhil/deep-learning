@@ -1,5 +1,5 @@
 .DS_Store
-
+*cache*
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
@@ -18,3 +18,4 @@ preprocess_validation.p
 *.csv
 MNIST*
 .ipynb_checkpoints/
+*data
